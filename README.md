@@ -9,6 +9,7 @@
 
 ### How do you apply PCA to remove Multicollinearity?
 - PCA (Principal Component Analysis) takes advantage of multicollinearity and combines the highly correlated variables into a set of uncorrelated variables.
+- PCa can create a new variable that can reduce the number of original values, without compromising information.
 - Therefore, PCA can effectively eliminate multicollinearity between features.
 <img width="706" alt="Screenshot 2023-12-21 at 3 45 45 PM" src="https://github.com/ColleenJung/PCA_Multicollinearity-andIntrinsic-Low-Dimension/assets/119357849/158e2f39-45f3-4857-8cc5-13fb2f7f6f8a">
 
